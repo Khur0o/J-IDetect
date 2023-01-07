@@ -1,4 +1,4 @@
-# J-IDetect
+# Java-Programming-Detector-by-OCR
 Android base software
 
 # Features
