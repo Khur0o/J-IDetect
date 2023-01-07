@@ -8,5 +8,5 @@ Android base software
 - Authentication by google account 
 
 # Program Use to Develop
--Android Studio 2021.3.1.17
--Firebase (Real-Time Database, Optical Character Recognition, Authentication)
+- Android Studio 2021.3.1.17
+- Firebase (Real-Time Database, Optical Character Recognition, Authentication)
